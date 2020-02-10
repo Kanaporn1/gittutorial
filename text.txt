@@ -1,6 +1,11 @@
 Version Control GET 1
 I'm  MAI kiki 
-
+_naa baaalla
+sss09o
 55555555555555
 update jaaaaaaaaaa 
+<<<<<<< HEAD
 sawaddeekub my moomoo
+=======
+I have a conflict nowwwww
+>>>>>>> 9d70bd60650db4285a2aecf768d1e7e8af6cd272
